@@ -9,8 +9,8 @@
 	<name>Kafka :: Parent</name>
 
 	<modules>
-	<module>KafkaProducer</module>
-	<module>KafkaComsumer</module>
+	<module>kafka-Producer</module>
+	<module>kafka-Comsumer</module>
 	</modules>
 
 	<dependencies>
